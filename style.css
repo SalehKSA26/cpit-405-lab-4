@@ -1,0 +1,14 @@
+.part input{
+width: 400px;
+height: 25px;
+}
+.comment{
+    width: 400px;
+    height: 200px;
+}
+.submit{
+    width: 400px;
+    height: 25px;
+    background: black;
+    color: white;
+}
